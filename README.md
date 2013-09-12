@@ -24,7 +24,7 @@ Type the name of package which you want to make or if you could find it yourself
 ----------------------
 Example:
 
-to install inkscape by slackbuild first run slackbuld and then put the packagename:
+to install inkscape by slackbuild first run slackbuld and then put the package name:
 
  #slackbuild
  
