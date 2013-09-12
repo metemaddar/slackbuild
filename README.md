@@ -6,6 +6,8 @@ find package from slackbuilds.com and build
 ----------------------
 Installation:
 
+Requirement: BeautifulSoup
+
 give execute permission for slackbuild.py
 
 make link to slackbuild.py:
