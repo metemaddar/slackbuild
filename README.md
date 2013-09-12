@@ -27,6 +27,7 @@ Example:
 to install inkscape by slackbuild:
 
  #slackbuild
+ 
  #Pakcage name or url:inkscape
 
 and it will find inkscape and then start to build the package.
@@ -34,4 +35,5 @@ and it will find inkscape and then start to build the package.
 if slackbuld could not find package from slackbulids.org and you, yourself found, just put the url instead of package name. for example for 'libsigc' slackbulid can not find the url himself. Just give him the URL:
 
  #slackbuild
+ 
  #Pakcage name or url:http://slackbuilds.org/repository/14.0/libraries/libsigc++/
